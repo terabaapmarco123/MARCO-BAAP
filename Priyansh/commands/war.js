@@ -1,11 +1,11 @@
 module.exports.config = {
-    name: "fyt",
+    name: "war",
     version: "1.0.0",
     hasPermssion: 2,
     credits: "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭",
-    description: "fyt in group boxchat",
+    description: "war in group boxchat",
     commandCategory: "group",
-    usages: "bold fyt",
+    usages: "bold war",
     cooldowns: 10,
     dependencies: {
         "fs-extra": "",
