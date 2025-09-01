@@ -3,9 +3,9 @@ module.exports.config = {
     version: "1.0.0",
     hasPermssion: 2,
     credits: "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭",
-    description: "War in group boxchat",
+    description: "fyt in group boxchat",
     commandCategory: "group",
-    usages: "bold war",
+    usages: "bold fyt",
     cooldowns: 10,
     dependencies: {
         "fs-extra": "",
