@@ -12,7 +12,7 @@ module.exports.config = {
 module.exports.handleEvent = function({ api, event, client, __GLOBAL }) {
   var { threadID, messageID } = event;
   let react = event.body.toLowerCase();
-  if(react.includes("Me julmi hu BSDK") ||
+  if(react.includes("Me prince hu BSDK") ||
      react.includes("Tera malik hu") || react.includes("Tera boss hu prince") || react.includes("Tera papa hu") ||
 react.includes("Tera boss hu prince beby") ||
 react.includes("Malik se bckchodi")) {
